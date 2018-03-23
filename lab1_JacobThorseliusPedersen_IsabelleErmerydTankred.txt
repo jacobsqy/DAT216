@@ -1,0 +1,21 @@
+1. Man behöver markera textfälten för att börja skriva.
+
+2. Det finns inget kortkommando för att radera.
+
+3. Den förvalda texten i textfäten måste tas bort för varje ny kontakt.
+
+4. Det är jobbigt att flytta muspekaren mellan kontakten och "ta bort"-knappen, då man t ex vill ta bort varannan kontakt.
+
+5. Kontakter med samma efternamn sorteras på ett konstigt sätt (eller inte alls?). 
+
+Lösningar:
+
+1. Det översta textfältet markeras automatiskt då man antingen markerar eller dubbelklickar på kontakten.
+
+2. Lägg till ett kortkommando för att ta bort vald kontakt (exempelvis Ctrl-D)
+
+3. Lämna alla textfält tomma från början, kanske ha en utgråad bakgrundstext från början som försvinner när man markerar fältet.
+
+4. Det kan dyka upp en "ta bort"-knapp bredvid kontaktnamnet då man håller muspekaren över det.
+
+5. Sortera kontakter först och främst efter efternamn men annars efter förnamn, t ex bör Adam Eriksson vara föra Bert Eriksson.

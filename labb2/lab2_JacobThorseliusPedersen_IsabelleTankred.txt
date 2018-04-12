@@ -1,0 +1,9 @@
+Kontroller:
+Det går inte att tabba till kök.
+Det går inte att tabba till resultatlistan, därmed inte heller scrolla i resultatlistan med tangenter och inte heller gå in i ett recept m.h.a. enter.
+Det finns inga kortkommandon.
+
+Feedback/pliancy:
+Borde markeras i resultatlistan när man hovrar med musen över ett recept.
+Borde synas tydligare vilka recept som är exakt match. Just nu lite oklart hur listan sorteras när det inte är exakt match.
+
